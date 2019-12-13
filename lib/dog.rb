@@ -1,5 +1,5 @@
-class Dog 
+class Dog
   def bark
     puts "bark!"
-  end 
-end 
+  end
+end
